@@ -7,7 +7,7 @@ The **official bundle demo app** can be found [here](https://github.com/Anyline/
 
 This is **only** a **code example** app. This does **not** inlcude full workflows or demos.
 
-## Included examples implementations:
+## Included examples [implementations](https://github.com/Anyline/anyline-ios-swift-demo/tree/master/SwiftTestApp/ScanViewControllers):
 * MRZ scanning
 * VIN scanning
 * Meter reading
