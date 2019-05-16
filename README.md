@@ -5,7 +5,7 @@ The **official bundle demo app** can be found [here](https://github.com/Anyline/
 
 ### Disclaimer
 
-This is **only** a **code example** app. This does **not** inlcude full workflows or demos.
+This is **only a code example** app. This does **not** inlcude full workflows or demos.
 
 ## Included examples [implementations](https://github.com/Anyline/anyline-ios-swift-demo/tree/master/SwiftTestApp/ScanViewControllers):
 * MRZ scanning
@@ -15,9 +15,9 @@ This is **only** a **code example** app. This does **not** inlcude full workflow
 * Document scanning
 
 ## Resources:
-**Documentation:** https://documentation.anyline.com/toc/platforms/ios/index.html
-**Full/More examples:** https://github.com/Anyline/anyline-ocr-examples-ios
-**SDK Setup Guide** https://documentation.anyline.com/toc/platforms/ios/getting_started.html
+* **Documentation:** https://documentation.anyline.com/toc/platforms/ios/index.html
+* **Full/More examples:** https://github.com/Anyline/anyline-ocr-examples-ios
+* **SDK Setup Guide** https://documentation.anyline.com/toc/platforms/ios/getting_started.html
 
 ## Clone or Download
 
