@@ -2,3 +2,4 @@
 *.traineddata filter=lfs diff=lfs merge=lfs -text
 Anyline filter=lfs diff=lfs merge=lfs -text
 SwiftTestApp/AnylineSDK/Anyline.framework/Anyline filter=lfs diff=lfs merge=lfs -text
+SwiftTestApp/AnylineSDK/* linguist-vendored
