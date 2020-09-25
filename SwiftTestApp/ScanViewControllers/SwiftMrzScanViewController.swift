@@ -69,6 +69,6 @@ class SwiftMrzScanViewController: UIViewController ,ALIDPluginDelegate {
         //Handle MRZ result here:
         // ...
         // ...
-        print("MRZ resul: givenNames:\(mrzResult.givenNames) \n surNames:\(mrzResult.surNames) \n documentNumber:\(mrzResult.documentNumber)")
+        print("MRZ resul: givenNames:\(mrzResult.givenNames ?? "no given name") \n surNames:\(mrzResult.surname ?? "no surname") \n documentNumber:\(mrzResult.documentNumber ?? "no document number")")
     }
 }
